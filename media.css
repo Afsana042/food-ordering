@@ -1,0 +1,23 @@
+﻿
+
+#navbar{
+    display:flex;
+    width:100%;
+    flex-direction:column;
+}
+
+#services{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    align-items:center;
+  
+
+}
+
+#clients{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    
+}
